@@ -1,0 +1,14 @@
+{
+  "name": "Dulceria",
+  "description": "Paquetes del frontend para el proyecto Dulceria",
+  "main": "",
+  "authors": [
+    "Ernesto Ulises Rodríguez Barrios"
+  ],
+  "license": "MIT",
+  "homepage": "Dulceria.app",
+  "dependencies": {
+    "materialize": "^0.98.2",
+    "vue": "^2.3.4"
+  }
+}
